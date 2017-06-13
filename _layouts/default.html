@@ -1,20 +1,35 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
+<html lang="en-us">
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/cayman.css">
+  </head>
 
   <body>
+    <section class="page-header">
+      <a href="{{ site.baseurl }}"><h1 class="project-name">{{ site.title }}</h1></a>
+      <h2 class="project-tagline">{{ site.tagline }}</h2>
+      <!-- <a href="#" class="btn">View on GitHub</a>
+      <a href="#" class="btn">Download .zip</a>
+      <a href="#" class="btn">Download .tar.gz</a> -->
+    </section>
 
-    {% include header.html %}
+    <section class="main-content">
+      
+      {{ content }}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="{{ site.url }}">{{ site.title }}</a> is developed by a not-for-profit collaboration of developers based in India.</span>
+        <!-- <span class="site-footer-credits">Powered by <a href="http://ethereum.org">Ethereum</a>.</span> -->
+      </footer>
 
-    {% include footer.html %}
+    </section>
 
   </body>
-
 </html>
