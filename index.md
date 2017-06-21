@@ -24,7 +24,7 @@ layout: default
 
 - A whitepaper detailing our plans is currently being prepared. You are welcome to contribute to it.
 
-- The pre-launch phase will involve a centralized digital currency which will either act as IOU or be used for auctioning of the genesis block of the eventual decentralized version. All decisions will be taken collaboratively and transparently. For the pre-launch phase, the plan is to cap the total supply at *100 million* coins and release of new coins every month at *5%* of this total supply. These will be used to raise funds and reward contributors for development and advocacy in *50:50* ratio. There is no founders' reward. Developers, early adopters and promoters will be compensated as per their contribution as decided by the community.
+- The pre-launch phase will involve a centralized digital currency which will either act as IOU or be used for auctioning of the genesis block of the eventual decentralized version. All decisions will be taken collaboratively and transparently. For the pre-launch phase, the plan is to cap the total supply at *100 million* coins and release of new coins every month at *5%* of this total supply. These will be used to raise funds and reward contributors for development and advocacy in *50:50* ratio. There is no founders' reward. Developers, early adopters and evangelists will be compensated as per their contribution as decided by the community.
 
 # How To Participate?
 
