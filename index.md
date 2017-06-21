@@ -4,9 +4,9 @@ layout: default
 
 # Why?
 
-- Currently, Ethereum is the only programmable cryptocurrency with a critical mass. We strongly believe that monocultures are bad for innovation, security and politics.
+- Currently, Ethereum is the only programmable cryptocurrency with a critical mass. We strongly believe that monocultures are bad for innovation, security and politics. Alternatives would be really nice to have.
 
-- We believe that India's cryptocurrency needs will be very different in terms of transaction cost / speed, mobile / offline userbase, new payment systems like UPI, and the regulatory environment. An independent blockchain will allow us to take decisions better suited to India's needs.
+- We believe that India's cryptocurrency needs will be significantly different than global market in terms of transaction cost / speed, mobile / offline userbase, new payment systems like UPI, and the regulatory environment. An independent blockchain will allow us to take decisions better suited to India's needs.
 
 # How?
 
@@ -14,7 +14,7 @@ layout: default
 
 - We are also building tools making use of Indium coins. These include:
 
-  1. A public tipping bot service (similar to [ChangeTip](http://www.changetip.com/) which has shut down) that integrates well in Slack / Twitter / Reddit / Facebook communities. Alpha version is available for you to add to your Slack teams [here](https://slackbot.indium.org.in/). Both the admins and Slack members are given some coins as joining bonus. 
+  1. A public tipping bot service (similar to [ChangeTip](http://www.changetip.com/) which has shut down) that integrates well in Slack / Twitter / Reddit / Facebook communities. Alpha version is available for you to add to your Slack teams [here](https://slackbot.indium.org.in/). Both the admins and Slack members are given some coins as joining bonus from the advocacy budget. (Make sure to ping us first so that you receive the admin bonus correctly.)
   2. An Indium-based Q & A app (like StackOverflow or 21.co)
   3. Micro-task marketplace (like Fiverr)
 
@@ -22,9 +22,9 @@ layout: default
 
 - We plan to form a non-profit foundation on the lines of Ethereum Foundation to govern the development and advocacy.
 
-- A whitepaper detailing our plans is currently being prepared. You are welcome to contribute to it.
+- A whitepaper detailing our plans is currently being prepared. You are welcome to contribute to it. Join our Slack!
 
-- The pre-launch phase will involve a centralized digital currency which will either act as IOU or be used for auctioning of the genesis block of the eventual decentralized version. All decisions will be taken collaboratively and transparently. For the pre-launch phase, the plan is to cap the total supply at *100 million* coins and release of new coins every month at *5%* of this total supply. These will be used to raise funds and reward contributors for development and advocacy in *50:50* ratio. There is no founders' reward. Developers, early adopters and evangelists will be compensated as per their contribution as decided by the community.
+- The pre-launch phase will involve a centralized digital currency which will either act as IOU or be used for auctioning of the genesis block of the eventual decentralized version. All decisions will be taken collaboratively and transparently. For the pre-launch phase, the plan is to cap the total supply at *100 million* coins, and release of new coins every month at *5%* of this total supply. These will be used to raise funds and reward contributors for development and advocacy in *50:50* ratio. There is no founders' reward. Developers, early adopters and evangelists will be compensated as per their contribution as decided by the community.
 
 # How To Participate?
 
