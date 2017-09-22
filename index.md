@@ -29,7 +29,7 @@ layout: default
 
 - We will NOT be running any nodes ourselves, which removes the risk of censorship / transaction tampering.
 
-- A whitepaper detailing our plans is currently being prepared. You are welcome to contribute to it. [Join our Slack!](https://indiumtalk.slack.com/). Use [this link](https://join.slack.com/indiumtalk/shared_invite/MTk4MDQwNzMwMDIzLTE0OTczODIwNDItMzBkY2RlMjk0Yg)
+- A whitepaper detailing our plans is currently being prepared. You are welcome to contribute to it. Use [this link](https://join.slack.com/indiumtalk/shared_invite/MTk4MDQwNzMwMDIzLTE0OTczODIwNDItMzBkY2RlMjk0Yg) to join our Slack.
 
 - Indium is a divisible asset whose ledge is maintained on IPDB. Since IPDB is a permissioned a blockchain, securing it is cheap and no reward needs to be given to miners for securing it. Instead, the initial supply of coins can be used to compensate the community. The plan is to cap the total supply at *100 billion* coins, and release of new coins every year at *1%* of this total supply. These will be used to raise funds and reward contributors for development and advocacy in *50:50* ratio. There is no founders' reward. 
 
