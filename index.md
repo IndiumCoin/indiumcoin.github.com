@@ -13,6 +13,8 @@ layout: default
 
 - Indium is a divisible asset running on [Interplanetary Database](https://ipdb.foundation/) which uses a scalable, permissioned blockchain database [BigChainDB](http://bigchaindb.com/). This enables low-cost and low-latency transactions while reducing the risks of other permissioned blockchains.
 
+- IPDB supports minimal, deterministic and hence, safe smart contracts using IETF's [Cryptoconditions](https://tools.ietf.org/html/draft-thomas-crypto-conditions-01) standard. These smart contracts are much safer than Ethereum which has a Turing-complete computation model.
+
 - We are also building tools making use of Indium coins. These include:
 
   1. A public tipping bot service that integrates well in Slack / Twitter / Reddit / Facebook communities. Alpha version is available for you to add to your Slack teams [here](https://slackbot.indium.org.in/).
