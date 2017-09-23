@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-gitlab-letsencrypt'
+
+group :jekyll_plugins do
+  gem 'jekyll-gitlab-letsencrypt'
+end
