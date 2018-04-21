@@ -2,3 +2,24 @@
 #hero {
 	background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
 }
+
+.roundedimg {
+	border-radius: 12px;
+}
+
+.shadowedimg {
+	-webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.4);
+	box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.4);
+}
+
+section {
+	padding: 50px 0;
+}
+
+footer.main-footer {
+	padding: 0px 0px;
+}
+
+footer.main-footer .copyrights {
+	margin-top: 0px;
+}
